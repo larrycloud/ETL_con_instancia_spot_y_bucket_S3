@@ -1,0 +1,33 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.cache/
+*.log
+
+# AWS config and credentials (never subir estos archivos)
+*.pem
+*.key
+*.env
+
+# VS Code settings
+.vscode/
+
+# Mac/Windows files
+.DS_Store
+Thumbs.db
+
+# Jupyter/Notebooks (si se usan)
+.ipynb_checkpoints/
+
+# Test/temporary files
+*.tmp
+*.bak
+*.swp
+
+# Python virtual environments
+venv/
+.env/
