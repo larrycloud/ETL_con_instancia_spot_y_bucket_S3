@@ -125,7 +125,7 @@ Se valida que el archivo `etl.py` esté correctamente ubicado en la instancia y 
 Se ejecuta el script `etl.py` en la instancia EC2 Spot, iniciando el procesamiento del archivo de entrada y generando el archivo de salida transformado.
 
 📸 **Evidencia:**  
-![Ejecución etl.py](docs/screenshots/7_ejecucion_etl_python.jpg)
+![Ejecución etl.py](docs/screenshots/7_Ejecucion_etl_python.jpg)
 
 ---
 
