@@ -123,7 +123,7 @@ The script `etl.py` is confirmed to be correctly located on the instance and rea
 The `etl.py` script is executed inside the EC2 Spot instance to transform the input and generate the output file.
 
 📸 **Evidence:**  
-![ETL execution](docs/screenshots/7_ejecucion_etl_python.jpg)
+![ETL execution](docs/screenshots/7_Ejecucion_etl_python.jpg)
 
 ---
 
